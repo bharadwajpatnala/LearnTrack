@@ -135,3 +135,7 @@ classDiagram
 - Exception classes: represent expected application errors, such as an entity not being found.
 - Utility classes: provide reusable helpers such as ID generation and input validation.
 
+## Documentation
+- [Setup instructions](docs/Setup_Instructions.md)
+- [JDK, JRE, JVM and bytecode basics](docs/JVM_Basics.md)
+- [Design notes](docs/Design_Notes.md)
